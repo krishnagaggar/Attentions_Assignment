@@ -1,0 +1,3 @@
+As of 10/11/2024, this project is incomplete. 
+I was able to successfully run the application without memory management but now after implementing that, it is so much messed up and the time is less than 3 hours so I give up...
+I have uploaded the code for different tasks in separate .py files which are labelled according to their usage.
